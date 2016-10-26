@@ -9,6 +9,8 @@ license:             MIT
 license-file:        LICENSE
 author:              Denis Redozubov
 maintainer:          denis.redozubov@gmail.com
+homepage:            http://github.com/dredozubov/hreader-lens
+bug-reports:         http://github.com/dredozubov/hreader-lens/issues
 -- copyright:
 category:            Data
 build-type:          Simple
