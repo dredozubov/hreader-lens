@@ -7,7 +7,15 @@
   Optic counterparts of MonadReader combinators from the lens library.
 
 |-}
-module Control.Lens.HReader where
+module Control.Lens.HReader
+  ( hreader
+  , hasks
+  , hview
+  , hviews
+  , hiview
+  , hperform
+  , hperforml
+  ) where
 
 import Control.Comonad
 import Control.Lens
