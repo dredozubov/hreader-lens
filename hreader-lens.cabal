@@ -23,7 +23,7 @@ library
   -- other-extensions:
   build-depends:       base >=4.5 && <5
                      , comonad  >= 5
-                     , hreader >= 1.1 && 2.0
+                     , hreader >= 1.1 && <2.0
                      , hset >=2.0.0 && <3.0.0
                      , lens >= 4
                      , lens-action >= 0.2
